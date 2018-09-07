@@ -15,7 +15,3 @@ test2
 
 test3
 
-bug101
-
-dev1
-
